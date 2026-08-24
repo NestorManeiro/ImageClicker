@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings"
+              CurrentProfile="Default">
+
+	<Profiles>
+		<Profile Name="Default" />
+	</Profiles>
+
+	<Settings>
+
+		<Setting Name="ImageFolder"
+				 Type="System.String"
+				 Scope="User">
+			<Value Profile="Default">Images</Value>
+		</Setting>
+
+		<Setting Name="Threshold"
+				 Type="System.Double"
+				 Scope="User">
+			<Value Profile="Default">0.88</Value>
+		</Setting>
+
+		<Setting Name="ScanMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">100</Value>
+		</Setting>
+
+		<Setting Name="ScanMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">300</Value>
+		</Setting>
+
+		<Setting Name="BeforeClickMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">100</Value>
+		</Setting>
+
+		<Setting Name="BeforeClickMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">200</Value>
+		</Setting>
+
+		<Setting Name="AfterClickMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">500</Value>
+		</Setting>
+
+		<Setting Name="AfterClickMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">1000</Value>
+		</Setting>
+
+		<Setting Name="ClickMarginMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">15</Value>
+		</Setting>
+
+		<Setting Name="ClickMarginMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">85</Value>
+		</Setting>
+
+		<Setting Name="BreakEveryMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">20</Value>
+		</Setting>
+
+		<Setting Name="BreakEveryMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">30</Value>
+		</Setting>
+
+		<Setting Name="BreakDurationMin"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">1</Value>
+		</Setting>
+
+		<Setting Name="BreakDurationMax"
+				 Type="System.Int32"
+				 Scope="User">
+			<Value Profile="Default">2</Value>
+		</Setting>
+
+		<Setting Name="BackgroundClick"
+				 Type="System.Boolean"
+				 Scope="User">
+			<Value Profile="Default">true</Value>
+		</Setting>
+
+	</Settings>
+</SettingsFile>
